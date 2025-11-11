@@ -6,6 +6,8 @@
 - 📍 Based in Florence, Italy
 
 ## 🛠️ Projects
+- [PHP_Piscine](https://github.com/MarcoPicheca/PHP_piscine) – PHP and Symfony Piscine for 42Firenze
+- [Moviemon](https://github.com/MarcoPicheca/moviemon) – A minimalist version of the game Pokémon with PHP and Symfony
 - [cpp09](https://github.com/MarcoPicheca/cpp09) – Three really important exercises to learn the C++ Standard Template Library
 - [Cub3d](https://github.com/MarcoPicheca/Cub3d) – 3D engine based on raycasting, inspired by the classic game Wolfenstein 3D using MiniLibX
 - [minihsell](https://github.com/Adam2475/Minishell_new) – A mini-replica of a shell
