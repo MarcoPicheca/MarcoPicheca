@@ -2,7 +2,7 @@
 
 ## 🧠 About Me
 - 🎓 42Firenze Student
-- 🔧 Efficient in C, Linux and C++ learner
+- 🔧 Efficient in PHP/Symfony, C, Linux and C++ learner
 - 📍 Based in Florence, Italy
 
 ## 🛠️ Projects
